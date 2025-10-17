@@ -3,11 +3,14 @@
 
   
   <br>
-<div> <a href="https://github.com/https://github.com/m4rkbello/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:markamarcortejopanesbello@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div> <a href="https://github.com/itscharlesm/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "mailto:itscharlesm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/https://www.youtube.com/@m4rkbello" target="blank"><img align="center" src="[https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg](https://www.citypng.com/public/uploads/preview/hd-blue-and-white-square-facebook-fb-logo-70175169479235560lh86s7jg.png)" alt="https://www.youtube.com/@m4rkbello" height="30" width="40" /></a><a href="https://dev.to/https://dev.to/m4rkbello" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/devto.svg" alt="https://dev.to/m4rkbello" height="30" width="40" /></a></p>
+<a href="https://www.facebook.com/ItsCharlesM/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/768px-2021_Facebook_icon.svg.png?20220821121039" height="30" width="30" /></a>
+<a href="https://www.instagram.com/itscharlesm/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/768px-2021_Facebook_icon.svg.png?20220821121039" height="30" width="30" /></a>
+  <a href="https://www.instagram.com/itscharlesm/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/768px-2021_Facebook_icon.svg.png?20220821121039" height="30" width="30" /></a>
+</p>
 <hr>
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
@@ -108,4 +111,5 @@
 <a href="https://ibb.co/8bZP7DC"><img src="https://i.ibb.co/3vZSCy3/cpanel-Logo.png" alt="cpanel-Logo"  height="100%" width="20%"></a>
 <a href="https://ibb.co/h2nWxj8"><img src="https://i.ibb.co/WBdyNwK/hostingerlogov1.png" alt="hostingerlogov1" border="0"  height="100%" width="20%"></a>
 </p>
+
 
