@@ -1,8 +1,11 @@
 <h2 align="center"><br>"Due tomorrow or Do tomorrow."
   
 <hr>
+
+![](https://komarev.com/ghpvc/?username=itscharlesm&color=blueviolet&label=My+Visitors)
   
 <br>
+
 <div> 
   <a href="https://github.com/itscharlesm/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href = "mailto:itscharlesm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -116,6 +119,7 @@
 <a href="https://ibb.co/8bZP7DC"><img src="https://i.ibb.co/3vZSCy3/cpanel-Logo.png" alt="cpanel-Logo"  height="100%" width="20%"></a>
 <a href="https://ibb.co/h2nWxj8"><img src="https://i.ibb.co/WBdyNwK/hostingerlogov1.png" alt="hostingerlogov1" border="0"  height="100%" width="20%"></a>
 </p>
+
 
 
 
