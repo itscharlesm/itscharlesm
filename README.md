@@ -1,41 +1,46 @@
 <h2 align="center"><br>"Due tomorrow or Do tomorrow."
+  
+<hr>
+  
+<br>
+<div> 
+  <a href="https://github.com/itscharlesm/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href = "mailto:itscharlesm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.facebook.com/ItsCharlesM/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/768px-2021_Facebook_icon.svg.png?20220821121039" height="30" width="30" /></a>
+  <a href="https://www.instagram.com/itscharlesm/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png?20210403190622" height="30" width="30" /></a>
+  <a href="https://x.com/ItsCharlesM" target="_blank"><img align="center" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/social-medias/x-twitter-logo-4x9ptijrdjch64mh4czlr.png/x-twitter-logo-top697n5ef8g4ua0vz2lu.png?_a=DATAg1AAZAA0" height="35" width="35" /></a>
+</p>
+
 <hr>
 
-  
-  <br>
-<div> <a href="https://github.com/itscharlesm/" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:itscharlesm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/ItsCharlesM/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/768px-2021_Facebook_icon.svg.png?20220821121039" height="30" width="30" /></a>
-<a href="https://www.instagram.com/itscharlesm/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/768px-2021_Facebook_icon.svg.png?20220821121039" height="30" width="30" /></a>
-  <a href="https://www.instagram.com/itscharlesm/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/768px-2021_Facebook_icon.svg.png?20220821121039" height="30" width="30" /></a>
-</p>
-<hr>
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
-<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="Tyepscript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/php-original.svg" alt="PHP" width="40" height="40"/>
 </p>
+
 <hr>
+
 <h3 align="left">Full-Stack Web: RETADAVEL STACK:</h3>
 <p align="left">
-<a href="https://ibb.co/xFMFSD5"><img src="https://i.ibb.co/sWFWv23/reactjs.png" alt="reactjs" border="0" height="100%" width="20%"></a>
-<a href="https://ibb.co/Sdz3fxF"><img src="https://i.ibb.co/KLJrKGT/tailwind-css-logo-vector.png" alt="tailwind-css-logo-vector" border="0" height="100%" width="20%"></a>
-<a href="https://ibb.co/mBHy6jd"><img src="https://i.ibb.co/yR8kW9K/daisyui.png" alt="daisyui" border="0" height="100%" width="20%"></a>
-<a href="https://ibb.co/2cbjNYm"><img src="https://i.ibb.co/TPCHLqp/axios.png" alt="axios" border="0" height="100%" width="20%"></a>
-  <a href="https://ibb.co/8mjPzZQ"><img src="https://i.ibb.co/S6KVQCZ/redux1.png" alt="redux1" border="0" height="100%" width="20%"></a>
-<a href="https://ibb.co/PG064Mt"><img src="https://i.ibb.co/HT3HYCX/laravel-FINAL.png" alt="laravel-FINAL" border="0" height="100%" width="20%"></a>
-<a href="https://ibb.co/hYd5BX4"><img src="https://i.ibb.co/GHMwWs8/mysql.png" alt="mysql" border="0"  height="100%" width="20%"></a>
+  <a href="https://ibb.co/Sdz3fxF"><img src="https://i.ibb.co/KLJrKGT/tailwind-css-logo-vector.png" alt="tailwind-css-logo-vector" border="0" height="100%" width="20%"></a>
+  <a href="https://ibb.co/PG064Mt"><img src="https://i.ibb.co/HT3HYCX/laravel-FINAL.png" alt="laravel-FINAL" border="0" height="100%" width="20%"></a>
+  <a href="https://ibb.co/hYd5BX4"><img src="https://i.ibb.co/GHMwWs8/mysql.png" alt="mysql" border="0"  height="100%" width="20%"></a>
 </p>
+
 <hr>
+
 <h3 align="left">Libraries and Frameworks:</h3>
 <p align="left">
-<a href="https://ibb.co/1MvQWdp"><img src="https://i.ibb.co/r370rcL/reactjs.png" alt="reactjs" border="0" height="100%" width="10%"></a>
   <a href="https://ibb.co/PjZnk0L"><img src="https://i.ibb.co/zxhYdDM/laravel-FINAL.png" alt="laravel-FINAL" border="0" height="100%" width="10%"></a>
 </p>
+
 <hr>
+
 <h3 align="left">UI Frameworks, Libraries and Plugins:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
@@ -111,5 +116,6 @@
 <a href="https://ibb.co/8bZP7DC"><img src="https://i.ibb.co/3vZSCy3/cpanel-Logo.png" alt="cpanel-Logo"  height="100%" width="20%"></a>
 <a href="https://ibb.co/h2nWxj8"><img src="https://i.ibb.co/WBdyNwK/hostingerlogov1.png" alt="hostingerlogov1" border="0"  height="100%" width="20%"></a>
 </p>
+
 
 
